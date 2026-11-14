@@ -1,0 +1,32 @@
+{
+  "brand": "@my_channel",
+  "theme": {
+    "bg_top": "#2D1B4E",
+    "bg_bottom": "#6A3D9A",
+    "accent": "#FF9F68",
+    "text": "#FFFFFF",
+    "sub_text": "#E6DDF2"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": "여기에\n표지 제목을 쓰세요",
+      "subtitle": "부제목은 한 줄 정도가 좋아요"
+    },
+    {
+      "type": "content",
+      "title": "첫 번째 포인트",
+      "body": "본문 내용을 적습니다. 길어지면 자동으로 줄이 바뀝니다."
+    },
+    {
+      "type": "content",
+      "title": "두 번째 포인트",
+      "body": "슬라이드는 원하는 만큼 추가할 수 있습니다. 배경 사진을 넣으려면 \"image\": \"사진경로.jpg\" 항목을 추가하세요."
+    },
+    {
+      "type": "end",
+      "title": "마무리 문구",
+      "subtitle": "저장하고 공유해 주세요"
+    }
+  ]
+}
